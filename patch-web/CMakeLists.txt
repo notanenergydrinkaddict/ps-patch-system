@@ -22,6 +22,7 @@ embed_files(${PROJECT_NAME}
     assets/roboto-v51-latin-500.woff2
     assets/roboto-mono-v31-latin-regular.woff2
     ../data/sce_sys/icon0.png
+    ../data/sce_sys/icon0_patch.png
 )
 
 include(optimization-settings)
